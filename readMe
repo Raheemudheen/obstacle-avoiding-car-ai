@@ -1,1 +1,4 @@
 Navigate to iisc test\Assets\Test Level
+FEATURES
+1: Waypoint System(Path)
+2: Raycast object detection and avoidance(Sensor)
